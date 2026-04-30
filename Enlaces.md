@@ -10,5 +10,4 @@ Para que no tengamos que estar buscando los links cada vez que trabajamos, acá 
 ---
 
 ## 📅 Fechas Importantes
-* [ ] Entrega de CV en LaTeX: **Próximamente**
-* [ ] Finalización Módulo 1: **A definir**
+
