@@ -1,4 +1,4 @@
-## INTEGRANTES DEL GRUPO ALEPH
+## INTEGRANTES DEL GRUPO ALEPH Módulo 3
 |Nombre|Apellido|Perfil GitHub|Número WSP|
 |-------|---------|-----|----|
 |Juan Marcos|Aguirre|https://github.com/AguirreJuanMarcos/Modulo_3|2616932070|
