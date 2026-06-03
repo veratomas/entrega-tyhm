@@ -5,4 +5,4 @@
 |Luciano|Correa Pol|https://github.com/luciano-correapol/M-dulo-4|2613748619|
 |Tomás|Cabrera|FALTA LINK|2614191579|
 |Tomás|Vera|FALTA LINK|2634660261|
-|Enzo|Scala|FALTA LINK|2615327651|
+|Enzo|Scala|https://github.com/enzoscala431-cloud/modulo_4/tree/main|2615327651|
