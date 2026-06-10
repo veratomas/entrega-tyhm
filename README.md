@@ -16,9 +16,9 @@ Acá podés encontrar acceso rápido a todos los documentos que fuimos armando p
 
 ---
 
-## 👥 Perfiles de GitHub de los integrantes:
+## 👥 Módulo 1 (punto de inicio) de cada integrante:
 - **Luciano Correa Pol**: [Link al repositorio](https://github.com/luciano-correapol/T-cnicas-y-herramientas-modernas)
-- **Enzo Scala**: [Link al repositorio](https://github.com/enzoscala431-cloud/modulo-1)
+- **Enzo Scala**: [Link al repositorio](https://github.com/enzoscala431-cloud/modulo_1)
 - **Juan Marcos Aguirre**: [Link al repositorio](https://github.com/AguirreJuanMarcos/Modulo_1)
-- **Tomás Vera**: [Link al repositorio](https://github.com/veratomas/)
+- **Tomás Vera**: [Link al repositorio](https://github.com/veratomas/modulo1)
 - **Tomás Cabrera**: [Link al repositorio](https://github.com/tomascabrera1453-spec/M-dulo-1)
